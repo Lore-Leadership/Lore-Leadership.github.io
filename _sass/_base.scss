@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/blurred.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -316,7 +316,7 @@ header {
 }
 
 // Contact
-#contact .fa {
+#contact .fas {
     color: $theme-dark;
     font-size: 4em;
 }
